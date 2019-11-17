@@ -1,0 +1,15 @@
+h1 {text-align: center;}
+div {text-align: center;}
+.styledFont {color: green;}
+#styledImage {border-block-start-color: orangered;}
+#styledImage {border-block-start-style: dotted;}
+#styledImage {border-block-start-width: thick;}
+#styledImage {border-block-end-color: orangered;}
+#styledImage {border-block-end-style: dotted;}
+#styledImage {border-block-end-width: thick;}
+#styledImage {border-left-color: orangered;}
+#styledImage {border-left-style: dotted;}
+#styledImage {border-left-width: thick;}
+#styledImage {border-right-color: orangered;}
+#styledImage {border-right-style: dotted;}
+#styledImage {border-right-width: thick;}
